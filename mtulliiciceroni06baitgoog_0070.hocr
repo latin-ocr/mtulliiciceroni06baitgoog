@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni06baitgoog/mtulliiciceroni06baitgoog_0070.png"; bbox 0 0 3680 5878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 496 1822 1259 1916">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 496 1822 1259 1916">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 1822 1259 1916; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 496 1825 559 1914; x_wconf 88' lang='grc' dir='ltr'><strong>Μ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 589 1823 837 1915; x_wconf 77' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 866 1822 1259 1916; x_wconf 80' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 298 2141 1461 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 298 2141 1461 2342">
+     <span class='ocr_line' id='line_1_2' title="bbox 298 2141 1461 2342; baseline -0.003 -84"><span class='ocrx_word' id='word_1_4' title='bbox 298 2141 1461 2342; x_wconf 62' lang='lat' dir='ltr'><strong>EPISMMUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 844 2461 897 2522">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 844 2461 897 2522">
+     <span class='ocr_line' id='line_1_3' title="bbox 844 2461 897 2522; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 844 2461 897 2522; x_wconf 87' lang='grc' dir='ltr'><strong>ΑΙ)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 633 2710 1111 3058">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 633 2710 1111 3058">
+     <span class='ocr_line' id='line_1_4' title="bbox 633 2710 1111 2802; baseline 0.004 -5"><span class='ocrx_word' id='word_1_6' title='bbox 633 2710 1111 2802; x_wconf 71' lang='lat' dir='ltr'><strong>FAMILIARES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 725 2996 1024 3058; baseline 0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 725 2996 1024 3058; x_wconf 74' lang='lat' dir='ltr'>Llnn1xv1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1844 5878">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1844 5878">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1844 5878; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1844 5878; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
